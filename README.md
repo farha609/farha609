@@ -1,6 +1,6 @@
 ## Hi there 👋
-Farha Naaz
-Computer Science
+##Farha Naaz
+##Computer Science
 
 <!--
 **farha609/farha609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
